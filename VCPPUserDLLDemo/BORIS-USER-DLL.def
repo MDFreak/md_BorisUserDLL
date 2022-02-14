@@ -1,0 +1,19 @@
+EXPORTS
+	CanSimulateDLL=_CanSimulateDLL@4 
+	EndSimulationDLL=_EndSimulationDLL@0 
+	GetDialogEnableStruct=_GetDialogEnableStruct@8
+	GetNumberOfInputsOutputs=_GetNumberOfInputsOutputs@4
+	GetParameterStruct=_GetParameterStruct@4
+	InitSimulationDLL=_InitSimulationDLL@12
+	IsUserDLL32=_IsUserDLL32@0
+	SimulateDLL=_SimulateDLL@24
+	CallParameterDialogDLL=_CallParameterDialogDLL@8
+	GetDLLName=_GetDLLName@0
+  InitUserDLL=_InitUserDLL@4
+	DisposeUserDLL=_DisposeUserDLL@4
+  WriteToFile=_WriteToFile@8
+	ReadFromFile=_ReadFromFile@8;
+
+	
+	
+

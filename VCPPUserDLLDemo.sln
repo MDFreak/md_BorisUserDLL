@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VCPPUserDLLDemo", "VCPPUserDLLDemo\VCPPUserDLLDemo.vcxproj", "{80F99A4A-EB2F-48AB-B6C5-F08062B900F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80F99A4A-EB2F-48AB-B6C5-F08062B900F2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{80F99A4A-EB2F-48AB-B6C5-F08062B900F2}.Debug|Win32.Build.0 = Debug|Win32
+		{80F99A4A-EB2F-48AB-B6C5-F08062B900F2}.Release|Win32.ActiveCfg = Release|Win32
+		{80F99A4A-EB2F-48AB-B6C5-F08062B900F2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12D66188-04DE-48B3-8B74-765496B40ED6}
+	EndGlobalSection
+EndGlobal
